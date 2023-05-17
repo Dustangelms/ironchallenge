@@ -50,7 +50,6 @@ namespace {
     const char STROKE_END = '#';
 
     const char OUTPUT_NONE = 0;
-    const char STROKE_NONE = 0;
 }
 
 string old_phone_pad(const string & strokes) {
